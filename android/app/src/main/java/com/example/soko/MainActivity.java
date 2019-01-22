@@ -1,4 +1,4 @@
-package com.example.sokomarket;
+package com.example.soko;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

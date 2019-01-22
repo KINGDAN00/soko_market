@@ -1,4 +1,4 @@
-# soko_market
+# soko
 
 A new Flutter project.
 
